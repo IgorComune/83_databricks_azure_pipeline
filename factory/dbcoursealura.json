@@ -1,0 +1,9 @@
+{
+	"name": "dbcoursealura",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ee70cafc-556f-431b-9c54-dbed43d7cae4",
+		"tenantId": "f43104ee-8bcd-43b1-8a81-4c1023fa6ed5"
+	}
+}
